@@ -40,7 +40,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5"
+        kotlinCompilerExtensionVersion = "1.5.1"
     }
     packaging {
         resources {
